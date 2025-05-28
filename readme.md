@@ -10,7 +10,7 @@ Este repositório contém dois pequenos projetos Java desenvolvidos no IntelliJ 
 
 ### 📊 1. Boletim Estudantil
 
-**Arquivo**: `edu.roberth.segundasemana.boletimEstudantil.java`
+**Arquivo**: `edu.roberth.segundaSemana.boletimEstudantil.java`
 
 #### Funcionalidade
 - Avalia a média final de um estudante e imprime o resultado:
@@ -19,7 +19,7 @@ Este repositório contém dois pequenos projetos Java desenvolvidos no IntelliJ 
     - Média acima de 6: `APROVADO`
 
 #### Como Executar
-1. Compile e execute o arquivo `edu.roberth.segundasemana.boletimEstudantil.java`
+1. Compile e execute o arquivo `edu.roberth.segundaSemana.boletimEstudantil.java`
 2. Modifique o valor da variável `mediaFinal` para testar diferentes cenários
 
 ---

@@ -1,4 +1,4 @@
-package edu.roberth.segundasemana;
+package edu.roberth.segundaSemana;
 
 public class Variaveis {
     public static void main(String[] args) throws Exception {

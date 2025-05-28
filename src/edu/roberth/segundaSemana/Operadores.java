@@ -1,4 +1,4 @@
-package edu.roberth.segundasemana;
+package edu.roberth.segundaSemana;
 
     public class Operadores {
         public static void main(String[] args) {
